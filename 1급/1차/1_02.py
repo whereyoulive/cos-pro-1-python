@@ -1,4 +1,5 @@
 """
+해밍거리 구하기
 https://www.notion.so/pdg0526/02-c2ed33643685469ab6bd2cfdec0f9ff8
 """
 

@@ -2,6 +2,7 @@
 # UTF-8 encoding when using korean
 
 """
+계산기 by 문자열
 https://www.notion.so/pdg0526/03-by-3d5be374fb874c91b403bfe9f27a5a30
 """
 
